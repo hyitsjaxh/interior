@@ -1,0 +1,22 @@
+@media screen and (max-width:600px) {
+    age1 {
+        padding: 2% 5%;
+    }
+
+    nav > .links > img {
+        height: 50px;
+    }
+
+    nav > .links > a {
+        display: none;
+    }
+
+    nav > .goto {
+        display: none;
+    }
+
+    .menu {
+        display: initial;
+    }
+    
+}
